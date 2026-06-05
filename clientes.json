@@ -1,14 +1,14 @@
 {
     "Northville Sandbox": {
-        "tenantId": "113423",
-        "companyId": "110815",
-        "apiKey": "T-6787060a4",
-        "apiSecret": "Ud2eGPbdWaFT"
+        "tenantId": "",
+        "companyId": "",
+        "apiKey": "",
+        "apiSecret": ""
     },
     "Cliente Test1": {
-        "tenantId": "113423",
-        "companyId": "110815",
-        "apiKey": "T-6787060a4",
-        "apiSecret": "Ud2eGPbdWaFT"
+        "tenantId": "",
+        "companyId": "",
+        "apiKey": "",
+        "apiSecret": ""
     }
 }
