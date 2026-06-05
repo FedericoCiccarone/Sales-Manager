@@ -1,2 +1,2 @@
-# Nubceo-Sales-Manager
+# Sales-Manager
 
