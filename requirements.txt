@@ -1,0 +1,7 @@
+customtkinter
+requests
+pandas
+openpyxl
+python-dotenv
+pyinstaller
+tkcalendar
